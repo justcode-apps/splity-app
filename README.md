@@ -1,2 +1,1 @@
-# splity-app
-Splity App website
+# Splity App Website
